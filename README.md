@@ -1,2 +1,2 @@
 # Image_processing
-code for image processing
+Python code for image processing
